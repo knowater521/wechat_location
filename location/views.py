@@ -6,8 +6,6 @@ import hashlib
 import time
 import os
 import urllib2,json
-import lxml
-from lxml import etree
 import json
 
 # Create your views here.
